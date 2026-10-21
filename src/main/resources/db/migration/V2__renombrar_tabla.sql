@@ -1,0 +1,1 @@
+ALTER TABLE prodecto RENAME TO producto;
