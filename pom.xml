@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>suda.com</groupId>
-    <artifactId>herramientas</artifactId>
+    <artifactId>herramientas_clase</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>herramientas</name>
     <description>herramientas</description>

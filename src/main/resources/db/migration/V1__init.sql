@@ -3,4 +3,4 @@ CREATE TABLE producto (
     descripcion VARCHAR (100),
     price VARCHAR (100),
     stock INT
-)
+);
